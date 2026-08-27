@@ -9,13 +9,18 @@
 </p>
 
 <p align="center">
+
+  <a href="https://utkarsh713.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00ff99?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <a href="https://github.com/utkarsh713">
     <img src="https://img.shields.io/badge/GitHub-utkarsh713-181717?style=for-the-badge&logo=github" />
   </a>
-  https://utkarsh713.github.io/Portfolio/
-</p>
 
----
+  <img src="https://komarev.com/ghpvc/?username=utkarsh713&style=for-the-badge&color=00ff99&label=PROFILE+VIEWS" />
+
+</p>
 
 ## 👨‍💻 About The Portfolio
 
