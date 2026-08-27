@@ -12,7 +12,7 @@
   <a href="https://github.com/utkarsh713">
     <img src="https://img.shields.io/badge/GitHub-utkarsh713-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=utkarsh713&https://utkarsh713.github.io/Portfolio/" />
+  https://utkarsh713.github.io/Portfolio/
 </p>
 
 ---
