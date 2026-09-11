@@ -2857,6 +2857,29 @@ nav,.slide-ui,.hero-anim,section,footer,.stats-strip{
 }
 </style>
 
+
+<style>
+/* ============================================================
+   MOBILE — KEEP PHOTO & WORDS STATIC
+   Only mobile photo + word movement is disabled.
+   Everything else remains unchanged.
+   ============================================================ */
+@media (max-width: 900px){
+  .hero-photo{
+    animation:none!important;
+    transform:none!important;
+  }
+
+  .word-reveal,
+  .word-reveal.show{
+    opacity:1!important;
+    transform:none!important;
+    transition:none!important;
+    animation:none!important;
+    will-change:auto!important;
+  }
+}
+</style>
 </head>
 <body>
 
