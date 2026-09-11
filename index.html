@@ -3185,7 +3185,7 @@ function sendEmail(){
   }
 
   btn.disabled=true;
-  btnText.textContent='Sending... ⏳';
+  btnText.textContent='Sending... ';
 
   const templateParams={
     from_name:name,
@@ -3204,7 +3204,7 @@ function sendEmail(){
       document.getElementById('from_email').value='';
       document.getElementById('from_phone').value='';
       document.getElementById('message').value='';
-      setTimeout(()=>{btn.disabled=false;btnText.textContent='Send Message 🚀';},3000);
+      setTimeout(()=>{btn.disabled=false;btnText.textContent='Send Message ';},3000);
     },function(error){
       console.error('EmailJS Error:',error);
       errorMsg.style.display='block';
