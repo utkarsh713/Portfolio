@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Utkarsh&fontSize=60&fontAlignY=35&animation=fadeIn" />
 </p>
-
+ 
 <p align="center">
   <b>💻 Computer Science Student | 👨‍💻 Developer | 🚀 Tech Enthusiast</b>
 </p>
